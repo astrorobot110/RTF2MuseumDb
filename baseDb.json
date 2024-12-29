@@ -6962,13 +6962,7 @@
   "etherium": 0,
   "bydogen": 0,
   "generation": 1,
-  "patch": 1,
-  "parent": "",
-  "children01": "002",
-  "children02": "024",
-  "children03": "027",
-  "children04": "037",
-  "children05": "042"
+  "patch": 1
  },
  {
   "id": "002",
@@ -6978,13 +6972,7 @@
   "etherium": 10,
   "bydogen": 10,
   "generation": 2,
-  "patch": 1,
-  "parent": "001",
-  "children01": "003",
-  "children02": "009",
-  "children03": "014",
-  "children04": "",
-  "children05": ""
+  "patch": 1
  },
  {
   "id": "003",
@@ -6994,13 +6982,7 @@
   "etherium": 0,
   "bydogen": 0,
   "generation": 3,
-  "patch": 1,
-  "parent": "002",
-  "children01": "004",
-  "children02": "005",
-  "children03": "006",
-  "children04": "",
-  "children05": ""
+  "patch": 1
  },
  {
   "id": "004",
@@ -7010,13 +6992,7 @@
   "etherium": 200,
   "bydogen": 250,
   "generation": 4,
-  "patch": 1,
-  "parent": "003",
-  "children01": "",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 1
  },
  {
   "id": "005",
@@ -7026,13 +7002,7 @@
   "etherium": 200,
   "bydogen": 200,
   "generation": 4,
-  "patch": 1,
-  "parent": "003",
-  "children01": "",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 1
  },
  {
   "id": "006",
@@ -7042,13 +7012,7 @@
   "etherium": 200,
   "bydogen": 200,
   "generation": 4,
-  "patch": 1,
-  "parent": "003",
-  "children01": "007",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 1
  },
  {
   "id": "007",
@@ -7057,13 +7021,7 @@
   "etherium": 300,
   "bydogen": 300,
   "generation": 5,
-  "patch": 1,
-  "parent": "006",
-  "children01": "008",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 1
  },
  {
   "id": "008",
@@ -7072,13 +7030,7 @@
   "etherium": 450,
   "bydogen": 450,
   "generation": 6,
-  "patch": 1,
-  "parent": "007",
-  "children01": "",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 1
  },
  {
   "id": "009",
@@ -7088,13 +7040,7 @@
   "etherium": 20,
   "bydogen": 100,
   "generation": 3,
-  "patch": 1,
-  "parent": "002",
-  "children01": "010",
-  "children02": "011",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 1
  },
  {
   "id": "010",
@@ -7103,13 +7049,7 @@
   "etherium": 300,
   "bydogen": 300,
   "generation": 4,
-  "patch": 1,
-  "parent": "009",
-  "children01": "",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 1
  },
  {
   "id": "011",
@@ -7119,13 +7059,7 @@
   "etherium": 350,
   "bydogen": 350,
   "generation": 4,
-  "patch": 1,
-  "parent": "009",
-  "children01": "012",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 1
  },
  {
   "id": "012",
@@ -7134,13 +7068,7 @@
   "etherium": 400,
   "bydogen": 400,
   "generation": 5,
-  "patch": 5,
-  "parent": "011",
-  "children01": "013",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 5
  },
  {
   "id": "013",
@@ -7149,13 +7077,7 @@
   "etherium": 500,
   "bydogen": 500,
   "generation": 6,
-  "patch": 9,
-  "parent": "012",
-  "children01": "",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 9
  },
  {
   "id": "014",
@@ -7165,13 +7087,7 @@
   "etherium": 100,
   "bydogen": 100,
   "generation": 3,
-  "patch": 1,
-  "parent": "002",
-  "children01": "015",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 1
  },
  {
   "id": "015",
@@ -7180,13 +7096,7 @@
   "etherium": 400,
   "bydogen": 400,
   "generation": 4,
-  "patch": 1,
-  "parent": "014",
-  "children01": "016",
-  "children02": "018",
-  "children03": "020",
-  "children04": "",
-  "children05": ""
+  "patch": 1
  },
  {
   "id": "016",
@@ -7196,13 +7106,7 @@
   "etherium": 400,
   "bydogen": 400,
   "generation": 5,
-  "patch": 1,
-  "parent": "015",
-  "children01": "017",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 1
  },
  {
   "id": "017",
@@ -7211,13 +7115,7 @@
   "etherium": 500,
   "bydogen": 500,
   "generation": 6,
-  "patch": 1,
-  "parent": "016",
-  "children01": "",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 1
  },
  {
   "id": "018",
@@ -7227,13 +7125,7 @@
   "etherium": 300,
   "bydogen": 300,
   "generation": 5,
-  "patch": 1,
-  "parent": "015",
-  "children01": "019",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 1
  },
  {
   "id": "019",
@@ -7242,13 +7134,7 @@
   "etherium": 400,
   "bydogen": 400,
   "generation": 6,
-  "patch": 1,
-  "parent": "018",
-  "children01": "105",
-  "children02": "106",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 1
  },
  {
   "id": "020",
@@ -7257,13 +7143,7 @@
   "etherium": 300,
   "bydogen": 300,
   "generation": 5,
-  "patch": 1,
-  "parent": "015",
-  "children01": "021",
-  "children02": "023",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 1
  },
  {
   "id": "021",
@@ -7272,13 +7152,7 @@
   "etherium": 300,
   "bydogen": 300,
   "generation": 6,
-  "patch": 1,
-  "parent": "020",
-  "children01": "022",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 1
  },
  {
   "id": "022",
@@ -7287,13 +7161,7 @@
   "etherium": 300,
   "bydogen": 300,
   "generation": 7,
-  "patch": 1,
-  "parent": "021",
-  "children01": "",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 1
  },
  {
   "id": "023",
@@ -7302,13 +7170,7 @@
   "etherium": 450,
   "bydogen": 450,
   "generation": 6,
-  "patch": 1,
-  "parent": "020",
-  "children01": "",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 1
  },
  {
   "id": "024",
@@ -7318,13 +7180,7 @@
   "etherium": 0,
   "bydogen": 0,
   "generation": 2,
-  "patch": 1,
-  "parent": "001",
-  "children01": "025",
-  "children02": "026",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 1
  },
  {
   "id": "025",
@@ -7334,13 +7190,7 @@
   "etherium": 400,
   "bydogen": 400,
   "generation": 3,
-  "patch": 1,
-  "parent": "024",
-  "children01": "",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 1
  },
  {
   "id": "026",
@@ -7350,13 +7200,7 @@
   "etherium": 450,
   "bydogen": 450,
   "generation": 3,
-  "patch": 1,
-  "parent": "024",
-  "children01": "",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 1
  },
  {
   "id": "027",
@@ -7366,13 +7210,7 @@
   "etherium": 0,
   "bydogen": 0,
   "generation": 2,
-  "patch": 1,
-  "parent": "001",
-  "children01": "028",
-  "children02": "029",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 1
  },
  {
   "id": "028",
@@ -7382,13 +7220,7 @@
   "etherium": 10,
   "bydogen": 10,
   "generation": 3,
-  "patch": 1,
-  "parent": "027",
-  "children01": "",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 1
  },
  {
   "id": "029",
@@ -7398,13 +7230,7 @@
   "etherium": 20,
   "bydogen": 100,
   "generation": 3,
-  "patch": 1,
-  "parent": "027",
-  "children01": "030",
-  "children02": "032",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 1
  },
  {
   "id": "030",
@@ -7413,13 +7239,7 @@
   "etherium": 300,
   "bydogen": 300,
   "generation": 4,
-  "patch": 1,
-  "parent": "029",
-  "children01": "031",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 1
  },
  {
   "id": "031",
@@ -7428,13 +7248,7 @@
   "etherium": 300,
   "bydogen": 300,
   "generation": 5,
-  "patch": 1,
-  "parent": "030",
-  "children01": "",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 1
  },
  {
   "id": "032",
@@ -7443,13 +7257,7 @@
   "etherium": 300,
   "bydogen": 300,
   "generation": 4,
-  "patch": 1,
-  "parent": "029",
-  "children01": "033",
-  "children02": "034",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 1
  },
  {
   "id": "033",
@@ -7458,13 +7266,7 @@
   "etherium": 50,
   "bydogen": 50,
   "generation": 5,
-  "patch": 1,
-  "parent": "032",
-  "children01": "",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 1
  },
  {
   "id": "034",
@@ -7474,13 +7276,7 @@
   "etherium": 300,
   "bydogen": 300,
   "generation": 5,
-  "patch": 1,
-  "parent": "032",
-  "children01": "035",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 1
  },
  {
   "id": "035",
@@ -7489,13 +7285,7 @@
   "etherium": 300,
   "bydogen": 300,
   "generation": 6,
-  "patch": 1,
-  "parent": "034",
-  "children01": "036",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 1
  },
  {
   "id": "036",
@@ -7504,13 +7294,7 @@
   "etherium": 450,
   "bydogen": 450,
   "generation": 7,
-  "patch": 1,
-  "parent": "035",
-  "children01": "",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 1
  },
  {
   "id": "037",
@@ -7519,13 +7303,7 @@
   "etherium": 10,
   "bydogen": 10,
   "generation": 2,
-  "patch": 1,
-  "parent": "001",
-  "children01": "038",
-  "children02": "040",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 1
  },
  {
   "id": "038",
@@ -7534,13 +7312,7 @@
   "etherium": 100,
   "bydogen": 100,
   "generation": 3,
-  "patch": 1,
-  "parent": "037",
-  "children01": "039",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 1
  },
  {
   "id": "039",
@@ -7549,13 +7321,7 @@
   "etherium": 200,
   "bydogen": 200,
   "generation": 4,
-  "patch": 1,
-  "parent": "038",
-  "children01": "",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 1
  },
  {
   "id": "040",
@@ -7564,13 +7330,7 @@
   "etherium": 250,
   "bydogen": 250,
   "generation": 3,
-  "patch": 5,
-  "parent": "037",
-  "children01": "041",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 5
  },
  {
   "id": "041",
@@ -7579,13 +7339,7 @@
   "etherium": 300,
   "bydogen": 300,
   "generation": 4,
-  "patch": 5,
-  "parent": "040",
-  "children01": "",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 5
  },
  {
   "id": "042",
@@ -7595,13 +7349,7 @@
   "etherium": 0,
   "bydogen": 0,
   "generation": 2,
-  "patch": 1,
-  "parent": "001",
-  "children01": "043",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 1
  },
  {
   "id": "043",
@@ -7611,13 +7359,7 @@
   "etherium": 450,
   "bydogen": 450,
   "generation": 3,
-  "patch": 1,
-  "parent": "042",
-  "children01": "044",
-  "children02": "048",
-  "children03": "069",
-  "children04": "",
-  "children05": ""
+  "patch": 1
  },
  {
   "id": "044",
@@ -7627,13 +7369,7 @@
   "etherium": 300,
   "bydogen": 300,
   "generation": 4,
-  "patch": 1,
-  "parent": "043",
-  "children01": "045",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 1
  },
  {
   "id": "045",
@@ -7643,13 +7379,7 @@
   "etherium": 300,
   "bydogen": 300,
   "generation": 5,
-  "patch": 1,
-  "parent": "044",
-  "children01": "046",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 1
  },
  {
   "id": "046",
@@ -7659,13 +7389,7 @@
   "etherium": 300,
   "bydogen": 300,
   "generation": 6,
-  "patch": 1,
-  "parent": "045",
-  "children01": "047",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 1
  },
  {
   "id": "047",
@@ -7675,13 +7399,7 @@
   "etherium": 450,
   "bydogen": 450,
   "generation": 7,
-  "patch": 1,
-  "parent": "046",
-  "children01": "",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 1
  },
  {
   "id": "048",
@@ -7691,13 +7409,7 @@
   "etherium": 300,
   "bydogen": 300,
   "generation": 4,
-  "patch": 1,
-  "parent": "043",
-  "children01": "049",
-  "children02": "054",
-  "children03": "062",
-  "children04": "",
-  "children05": ""
+  "patch": 1
  },
  {
   "id": "049",
@@ -7706,13 +7418,7 @@
   "etherium": 450,
   "bydogen": 450,
   "generation": 5,
-  "patch": 6,
-  "parent": "048",
-  "children01": "050",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 6
  },
  {
   "id": "050",
@@ -7721,13 +7427,7 @@
   "etherium": 300,
   "bydogen": 300,
   "generation": 6,
-  "patch": 6,
-  "parent": "049",
-  "children01": "051",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 6
  },
  {
   "id": "051",
@@ -7736,13 +7436,7 @@
   "etherium": 400,
   "bydogen": 400,
   "generation": 7,
-  "patch": 6,
-  "parent": "050",
-  "children01": "052",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 6
  },
  {
   "id": "052",
@@ -7751,13 +7445,7 @@
   "etherium": 300,
   "bydogen": 300,
   "generation": 8,
-  "patch": 6,
-  "parent": "051",
-  "children01": "053",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 6
  },
  {
   "id": "053",
@@ -7766,13 +7454,7 @@
   "etherium": 450,
   "bydogen": 450,
   "generation": 9,
-  "patch": 6,
-  "parent": "052",
-  "children01": "",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 6
  },
  {
   "id": "054",
@@ -7781,13 +7463,7 @@
   "etherium": 300,
   "bydogen": 300,
   "generation": 5,
-  "patch": 1,
-  "parent": "048",
-  "children01": "055",
-  "children02": "056",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 1
  },
  {
   "id": "055",
@@ -7796,13 +7472,7 @@
   "etherium": 300,
   "bydogen": 300,
   "generation": 6,
-  "patch": 1,
-  "parent": "054",
-  "children01": "",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 1
  },
  {
   "id": "056",
@@ -7811,13 +7481,7 @@
   "etherium": 300,
   "bydogen": 300,
   "generation": 6,
-  "patch": 1,
-  "parent": "054",
-  "children01": "057",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 1
  },
  {
   "id": "057",
@@ -7826,13 +7490,7 @@
   "etherium": 300,
   "bydogen": 300,
   "generation": 7,
-  "patch": 3,
-  "parent": "056",
-  "children01": "058",
-  "children02": "060",
-  "children03": "061",
-  "children04": "104",
-  "children05": ""
+  "patch": 3
  },
  {
   "id": "058",
@@ -7842,13 +7500,7 @@
   "etherium": 400,
   "bydogen": 400,
   "generation": 8,
-  "patch": 4,
-  "parent": "057",
-  "children01": "059",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 4
  },
  {
   "id": "059",
@@ -7858,13 +7510,7 @@
   "etherium": 0,
   "bydogen": 0,
   "generation": 9,
-  "patch": 5,
-  "parent": "058",
-  "children01": "",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 5
  },
  {
   "id": "060",
@@ -7873,13 +7519,7 @@
   "etherium": 300,
   "bydogen": 300,
   "generation": 8,
-  "patch": 4,
-  "parent": "057",
-  "children01": "",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 4
  },
  {
   "id": "061",
@@ -7889,13 +7529,7 @@
   "etherium": 300,
   "bydogen": 300,
   "generation": 8,
-  "patch": 4,
-  "parent": "057",
-  "children01": "102",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 4
  },
  {
   "id": "062",
@@ -7905,13 +7539,7 @@
   "etherium": 300,
   "bydogen": 300,
   "generation": 5,
-  "patch": 1,
-  "parent": "048",
-  "children01": "063",
-  "children02": "064",
-  "children03": "065",
-  "children04": "067",
-  "children05": ""
+  "patch": 1
  },
  {
   "id": "063",
@@ -7921,13 +7549,7 @@
   "etherium": 50,
   "bydogen": 50,
   "generation": 6,
-  "patch": 1,
-  "parent": "062",
-  "children01": "",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 1
  },
  {
   "id": "064",
@@ -7937,13 +7559,7 @@
   "etherium": 100,
   "bydogen": 100,
   "generation": 6,
-  "patch": 1,
-  "parent": "062",
-  "children01": "",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 1
  },
  {
   "id": "065",
@@ -7952,13 +7568,7 @@
   "etherium": 100,
   "bydogen": 100,
   "generation": 6,
-  "patch": 6,
-  "parent": "062",
-  "children01": "066",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 6
  },
  {
   "id": "066",
@@ -7967,13 +7577,7 @@
   "etherium": 100,
   "bydogen": 100,
   "generation": 7,
-  "patch": 6,
-  "parent": "065",
-  "children01": "107",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 6
  },
  {
   "id": "067",
@@ -7983,13 +7587,7 @@
   "etherium": 100,
   "bydogen": 100,
   "generation": 6,
-  "patch": 6,
-  "parent": "062",
-  "children01": "068",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 6
  },
  {
   "id": "068",
@@ -7999,13 +7597,7 @@
   "etherium": 100,
   "bydogen": 100,
   "generation": 7,
-  "patch": 6,
-  "parent": "067",
-  "children01": "108",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 6
  },
  {
   "id": "069",
@@ -8015,13 +7607,7 @@
   "etherium": 500,
   "bydogen": 500,
   "generation": 4,
-  "patch": 1,
-  "parent": "043",
-  "children01": "070",
-  "children02": "074",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 1
  },
  {
   "id": "070",
@@ -8031,13 +7617,7 @@
   "etherium": 300,
   "bydogen": 300,
   "generation": 5,
-  "patch": 1,
-  "parent": "069",
-  "children01": "071",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 1
  },
  {
   "id": "071",
@@ -8047,13 +7627,7 @@
   "etherium": 400,
   "bydogen": 400,
   "generation": 6,
-  "patch": 1,
-  "parent": "070",
-  "children01": "072",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 1
  },
  {
   "id": "072",
@@ -8062,13 +7636,7 @@
   "etherium": 400,
   "bydogen": 400,
   "generation": 7,
-  "patch": 1,
-  "parent": "071",
-  "children01": "073",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 1
  },
  {
   "id": "073",
@@ -8077,13 +7645,7 @@
   "etherium": 400,
   "bydogen": 400,
   "generation": 8,
-  "patch": 6,
-  "parent": "072",
-  "children01": "",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 6
  },
  {
   "id": "074",
@@ -8093,13 +7655,7 @@
   "etherium": 450,
   "bydogen": 450,
   "generation": 5,
-  "patch": 7,
-  "parent": "069",
-  "children01": "075",
-  "children02": "078",
-  "children03": "081",
-  "children04": "084",
-  "children05": "087"
+  "patch": 7
  },
  {
   "id": "075",
@@ -8108,13 +7664,7 @@
   "etherium": 350,
   "bydogen": 350,
   "generation": 6,
-  "patch": 7,
-  "parent": "074",
-  "children01": "076",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 7
  },
  {
   "id": "076",
@@ -8123,13 +7673,7 @@
   "etherium": 350,
   "bydogen": 350,
   "generation": 7,
-  "patch": 7,
-  "parent": "075",
-  "children01": "077",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 7
  },
  {
   "id": "077",
@@ -8138,13 +7682,7 @@
   "etherium": 350,
   "bydogen": 350,
   "generation": 8,
-  "patch": 8,
-  "parent": "076",
-  "children01": "",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 8
  },
  {
   "id": "078",
@@ -8154,13 +7692,7 @@
   "etherium": 350,
   "bydogen": 350,
   "generation": 6,
-  "patch": 7,
-  "parent": "074",
-  "children01": "079",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 7
  },
  {
   "id": "079",
@@ -8169,13 +7701,7 @@
   "etherium": 350,
   "bydogen": 350,
   "generation": 7,
-  "patch": 7,
-  "parent": "078",
-  "children01": "080",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 7
  },
  {
   "id": "080",
@@ -8185,13 +7711,7 @@
   "etherium": 350,
   "bydogen": 350,
   "generation": 8,
-  "patch": 8,
-  "parent": "079",
-  "children01": "",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 8
  },
  {
   "id": "081",
@@ -8201,13 +7721,7 @@
   "etherium": 350,
   "bydogen": 350,
   "generation": 6,
-  "patch": 7,
-  "parent": "074",
-  "children01": "082",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 7
  },
  {
   "id": "082",
@@ -8216,13 +7730,7 @@
   "etherium": 350,
   "bydogen": 350,
   "generation": 7,
-  "patch": 7,
-  "parent": "081",
-  "children01": "083",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 7
  },
  {
   "id": "083",
@@ -8231,13 +7739,7 @@
   "etherium": 350,
   "bydogen": 350,
   "generation": 8,
-  "patch": 8,
-  "parent": "082",
-  "children01": "",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 8
  },
  {
   "id": "084",
@@ -8247,13 +7749,7 @@
   "etherium": 350,
   "bydogen": 350,
   "generation": 6,
-  "patch": 7,
-  "parent": "074",
-  "children01": "085",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 7
  },
  {
   "id": "085",
@@ -8262,13 +7758,7 @@
   "etherium": 350,
   "bydogen": 350,
   "generation": 7,
-  "patch": 7,
-  "parent": "084",
-  "children01": "086",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 7
  },
  {
   "id": "086",
@@ -8278,13 +7768,7 @@
   "etherium": 350,
   "bydogen": 350,
   "generation": 8,
-  "patch": 8,
-  "parent": "085",
-  "children01": "",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 8
  },
  {
   "id": "087",
@@ -8294,13 +7778,7 @@
   "etherium": 500,
   "bydogen": 500,
   "generation": 6,
-  "patch": 7,
-  "parent": "074",
-  "children01": "088",
-  "children02": "090",
-  "children03": "092",
-  "children04": "094",
-  "children05": ""
+  "patch": 7
  },
  {
   "id": "088",
@@ -8309,13 +7787,7 @@
   "etherium": 350,
   "bydogen": 350,
   "generation": 7,
-  "patch": 8,
-  "parent": "087",
-  "children01": "089",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 8
  },
  {
   "id": "089",
@@ -8324,13 +7796,7 @@
   "etherium": 350,
   "bydogen": 350,
   "generation": 8,
-  "patch": 8,
-  "parent": "088",
-  "children01": "",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 8
  },
  {
   "id": "090",
@@ -8339,13 +7805,7 @@
   "etherium": 350,
   "bydogen": 350,
   "generation": 7,
-  "patch": 8,
-  "parent": "087",
-  "children01": "091",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 8
  },
  {
   "id": "091",
@@ -8354,13 +7814,7 @@
   "etherium": 350,
   "bydogen": 350,
   "generation": 8,
-  "patch": 8,
-  "parent": "090",
-  "children01": "",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 8
  },
  {
   "id": "092",
@@ -8369,13 +7823,7 @@
   "etherium": 350,
   "bydogen": 350,
   "generation": 7,
-  "patch": 8,
-  "parent": "087",
-  "children01": "093",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 8
  },
  {
   "id": "093",
@@ -8384,13 +7832,7 @@
   "etherium": 350,
   "bydogen": 350,
   "generation": 8,
-  "patch": 8,
-  "parent": "092",
-  "children01": "",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 8
  },
  {
   "id": "094",
@@ -8399,13 +7841,7 @@
   "etherium": 650,
   "bydogen": 650,
   "generation": 7,
-  "patch": 8,
-  "parent": "087",
-  "children01": "095",
-  "children02": "096",
-  "children03": "097",
-  "children04": "098",
-  "children05": ""
+  "patch": 8
  },
  {
   "id": "095",
@@ -8414,13 +7850,7 @@
   "etherium": 350,
   "bydogen": 350,
   "generation": 8,
-  "patch": 8,
-  "parent": "094",
-  "children01": "",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 8
  },
  {
   "id": "096",
@@ -8429,13 +7859,7 @@
   "etherium": 350,
   "bydogen": 350,
   "generation": 8,
-  "patch": 8,
-  "parent": "094",
-  "children01": "",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 8
  },
  {
   "id": "097",
@@ -8444,13 +7868,7 @@
   "etherium": 350,
   "bydogen": 350,
   "generation": 8,
-  "patch": 8,
-  "parent": "094",
-  "children01": "",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 8
  },
  {
   "id": "098",
@@ -8459,13 +7877,7 @@
   "etherium": 450,
   "bydogen": 450,
   "generation": 8,
-  "patch": 8,
-  "parent": "094",
-  "children01": "",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 8
  },
  {
   "id": "099",
@@ -8474,13 +7886,7 @@
   "etherium": 1000,
   "bydogen": 1000,
   "generation": 1,
-  "patch": 9,
-  "parent": "",
-  "children01": "",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 9
  },
  {
   "id": "100",
@@ -8490,13 +7896,7 @@
   "etherium": 0,
   "bydogen": 0,
   "generation": 1,
-  "patch": 9,
-  "parent": "",
-  "children01": "",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 9
  },
  {
   "id": "101",
@@ -8505,13 +7905,7 @@
   "etherium": 3000,
   "bydogen": 3000,
   "generation": 1,
-  "patch": 9,
-  "parent": "",
-  "children01": "",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 9
  },
  {
   "id": "AF0",
@@ -8521,13 +7915,7 @@
   "etherium": 0,
   "bydogen": 0,
   "generation": 1,
-  "patch": 10,
-  "parent": "",
-  "children01": "",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 10
  },
  {
   "id": "S01",
@@ -8537,13 +7925,7 @@
   "etherium": 0,
   "bydogen": 0,
   "generation": 1,
-  "patch": 10,
-  "parent": "",
-  "children01": "",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 10
  },
  {
   "id": "102",
@@ -8552,13 +7934,7 @@
   "etherium": 500,
   "bydogen": 60,
   "generation": 9,
-  "patch": 11,
-  "parent": "061",
-  "children01": "103",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 11
  },
  {
   "id": "103",
@@ -8568,13 +7944,7 @@
   "etherium": 650,
   "bydogen": 80,
   "generation": 10,
-  "patch": 11,
-  "parent": "102",
-  "children01": "",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 11
  },
  {
   "id": "104",
@@ -8583,13 +7953,7 @@
   "etherium": 200,
   "bydogen": 650,
   "generation": 8,
-  "patch": 11,
-  "parent": "057",
-  "children01": "",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 11
  },
  {
   "id": "105",
@@ -8598,13 +7962,7 @@
   "etherium": 650,
   "bydogen": 360,
   "generation": 7,
-  "patch": 12,
-  "parent": "019",
-  "children01": "",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 12
  },
  {
   "id": "106",
@@ -8613,13 +7971,7 @@
   "etherium": 360,
   "bydogen": 650,
   "generation": 7,
-  "patch": 12,
-  "parent": "019",
-  "children01": "",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 12
  },
  {
   "id": "S02",
@@ -8628,13 +7980,7 @@
   "etherium": 0,
   "bydogen": 0,
   "generation": 1,
-  "patch": 12,
-  "parent": "",
-  "children01": "",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 12
  },
  {
   "id": "107",
@@ -8643,13 +7989,7 @@
   "etherium": 180,
   "bydogen": 180,
   "generation": 8,
-  "patch": 13,
-  "parent": "066",
-  "children01": "109",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 13
  },
  {
   "id": "108",
@@ -8658,13 +7998,7 @@
   "etherium": 750,
   "bydogen": 750,
   "generation": 8,
-  "patch": 13,
-  "parent": "068",
-  "children01": "",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 13
  },
  {
   "id": "109",
@@ -8673,13 +8007,7 @@
   "etherium": 450,
   "bydogen": 450,
   "generation": 9,
-  "patch": 14,
-  "parent": "107",
-  "children01": "",
-  "children02": "",
-  "children03": "",
-  "children04": "",
-  "children05": ""
+  "patch": 14
  }
 ],
 "wave":[
